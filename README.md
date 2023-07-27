@@ -77,6 +77,7 @@ Clone this repository to your desired folder using:
 ```sh
   cd my-folder
   git https://github.com/Armynerh/testing-tdd.git
+```
 <!-- INSTALL -->
 
 ### Install
