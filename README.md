@@ -32,7 +32,7 @@
 <!-- INTRO -->
 # 📖 Portfolio <a name="about-project"></a>
 
-> This is a To Do List project with just HTML and CSS using ES6 using WebPack 
+> This ia a JavaScript practise test using Jest
 
 ## 🛠 Built With <a name="built-with"></a>
 1. JavaScript ES6 
@@ -76,8 +76,7 @@ Clone this repository to your desired folder using:
 
 ```sh
   cd my-folder
-  git https://github.com/.git
-```
+  git https://github.com/Armynerh/testing-tdd.git
 <!-- INSTALL -->
 
 ### Install
